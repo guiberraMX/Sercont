@@ -39,7 +39,7 @@ Author: Entiri
 /* --------------------------------------------------------	*/
 
 ::-moz-selection { background: #999; color: #fff; text-shadow: none; }
-::selection { background: #999; color: #fff; text-shadow: none; }
+::selection { background: #999; color: #fff; font-family: 2em !important; text-shadow: none; }
 :focus { outline-color: transparent!important; outline-style: none!important; }
 
 html {
@@ -66,6 +66,7 @@ body {
 
 .single-page-body {
   padding-top:100px;
+
 }
 
 /* --------------------------------------------------------	*/
@@ -190,6 +191,16 @@ hr {
 
 .c-bg {
   background-color:#F5F6FA;
+}
+
+
+
+
+.sercontquote{
+  font-family: 'Patua One', cursive !important;
+  font-size: 2.6em !important;
+  margin: 0 20% 0 20%  !important;
+
 }
 
 /* --------------------------------------------------------	*/
@@ -1243,8 +1254,8 @@ ul.blog-detail-comments ul {
 .msp-cn-2-12 { padding-top:20px;padding-right:40px;padding-bottom:20px;padding-left:40px;border-top:6px;border-right:6px;border-bottom:6px;border-left:6px;border-color:#ffffff;border-style:solid;font-family:"Roboto";font-weight:700;font-size:56px;text-align:center;line-height:normal;color:#ffffff; } 
 .msp-cn-2-13 { padding-top:5px;padding-right:60px;padding-bottom:5px;padding-left:60px;border-top:2px;border-right:2px;border-bottom:2px;border-left:2px;border-color:#ffffff;border-style:none;font-family:"Roboto";font-weight:100;font-size:30px;text-align:center;line-height:normal;color:#ffffff; }    
 .msp-cn-2-1, .msp-cn-2-1 h4, .msp-cn-2-1 h4 span { color:#ffffff !important;} 
-.msp-cn-2-2 h1 { color: #595959; font-weight:700; text-align:center;} 
-.msp-cn-2-2 h1 span{ color: #808080; font-weight:300; text-align:center;} 
+.msp-cn-2-2 h1 { color: #fff; font-family: 'Patua One', cursive; text-align:center;} 
+.msp-cn-2-2 h1 span{ color: #fff; font-weight:300; text-align:center;} 
 .msp-cn-2-9, .msp-cn-2-9 h2{ color:#ffffff !important;} 
 .msp-cn-2-13, .msp-cn-2-13 p { color:#ffffff !important;} 
       
