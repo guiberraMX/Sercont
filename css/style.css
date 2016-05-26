@@ -269,6 +269,26 @@ hr {
   font-family: Patua One !important;
 
 }
+
+
+
+.darknav{
+
+  background-color: rgba(40,42,46,0.9) !important;
+}
+
+.darknav a i{
+  color: #fff !important;
+}
+
+.smallville{
+  font-size: 1em !important;
+  text-align: center !important;
+}
+
+.upp{
+  margin-top: -140px !important;
+}
 /* --------------------------------------------------------	*/
 /* Images */
 /* --------------------------------------------------------	*/
