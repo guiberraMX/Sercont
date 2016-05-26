@@ -200,7 +200,15 @@ hr {
   font-family: 'Patua One', cursive !important;
   font-size: 2.6em !important;
   margin: 0 20% 0 20%  !important;
+  line-height: 2em !important;
 
+}
+
+
+.navigator{
+  background-color: #000 !important;
+  margin-top: -50px !important;
+  margin-bottom: -50px !important;
 }
 
 /* --------------------------------------------------------	*/
@@ -1427,6 +1435,7 @@ ul.blog-detail-comments ul {
 .back-to-top:after {
   content:"\f106";  
 }
+
 
 
 /* --------------------------------------------------------	*/
