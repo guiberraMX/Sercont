@@ -152,7 +152,7 @@ h5, h5 a {
   font-family: 'Merriweather', serif;
   font-size: 18px;
   font-weight: 400;
-  font-style: italic;
+ 
   line-height: 22px;  
 
 }
@@ -244,9 +244,31 @@ hr {
 }
 
 
+.btnsend{
+  margin-top: -200px !important;
+  background-color: rgba(40,42,46,1) !important;
+  border-color: #fff !important;
+}
+
+
+.fh2{
+  font-size: 2.8em !important;
+  line-height: 0.8em !important;
+  font-family: Patua One !important;
+  color: rgba(40,42,46,0.9);
+}
 
 
 
+.bgsercot{
+  background-color: rgba(40,42,46,0.9) !important;
+}
+
+
+.fonnt{
+  font-family: Patua One !important;
+
+}
 /* --------------------------------------------------------	*/
 /* Images */
 /* --------------------------------------------------------	*/

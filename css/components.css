@@ -515,13 +515,12 @@ ul.services-2 li .services-2-line {
 }
 
 .panel-title-2>a {
-  font-family: "Roboto", sans-serif;
-  font-size: 14px;
-  line-height: 17px;
+  
+  
   background-color:transparent;
   padding: 0px;
   display:inline-block;
-  color:#FFF;
+  color:rgba(40,42,46,1);
  
 }
 
@@ -574,7 +573,7 @@ ul.services-2 li .services-2-line {
   cursor: default;
   border-top-right-radius: 0px;
   border-top-left-radius: 0px;
-  color: #282A2E;
+  color: rgba(40,42,46,0.9);
 }
 
  
