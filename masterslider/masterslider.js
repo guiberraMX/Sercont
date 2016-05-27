@@ -1082,7 +1082,7 @@ window.averta = {};
 				timeStep = 0,
 				targetPosition = value,
 				animFrict = 1 - self.options.friction,
-				timeconst = animFrict + (speed - 20)  * animFrict * 1.3 / self.options.maxSpeed;
+				timeconst = animFrict + (speed - 2)  * animFrict * 1.3 / self.options.maxSpeed;
 
 			var tick = function(){
 				
