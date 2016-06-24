@@ -61,7 +61,7 @@ body {
   overflow:hidden;
   font-style: normal;
   font-weight: 400;
-  background: #FFF;
+  background: #333;
 }
 
 .single-page-body {
@@ -1662,4 +1662,10 @@ ul.blog-detail-comments ul {
 
 .color-picker .skin a.actt {
   border:2px #FFF solid; 
+}
+
+
+
+.medioo img{
+  text-align: center !important;
 }
