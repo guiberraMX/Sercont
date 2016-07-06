@@ -61,7 +61,7 @@ body {
   overflow:hidden;
   font-style: normal;
   font-weight: 400;
-  background: #333;
+  background: #FFF;
 }
 
 .single-page-body {
@@ -74,7 +74,7 @@ body {
 /* --------------------------------------------------------	*/
 
 a {
-  color: #ACB2B8;
+  color: #fff;
   text-decoration:none;
 }
 
@@ -134,11 +134,7 @@ h3, h3 a {
   line-height: 34px;  
 }
 
-h3:before {
-  content: "/";
-  margin-right:0px;
-  position: relative;
-}
+
 
 
 h4, h4 a {
@@ -1668,4 +1664,15 @@ ul.blog-detail-comments ul {
 
 .medioo img{
   text-align: center !important;
+}
+
+
+
+.bloq{
+  margin-bottom: 40px !important;
+  margin-top: 40px !important;
+}
+
+.trabajos{
+  margin-top: 40px !important;
 }

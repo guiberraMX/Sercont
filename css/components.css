@@ -125,13 +125,25 @@ a.team-name {
   position: relative;
   text-align: center;
   margin: 0px 0px 30px 0px;
-  border-bottom:1px solid #EBEBEB;  
+  
+   
 }
 
 .services-icon {
   display: inline-block;
   width:100%;
 
+}
+
+.services-icon a img {
+  margin:0px auto;
+  position: relative;
+  display: inline-block;  
+  text-align: center;
+  font-size: 48px;    
+  color:#282A2E;
+  float:left;
+  margin-right:10px; 
 }
 
 .services-icon i {
@@ -144,6 +156,8 @@ a.team-name {
   float:left;
   margin-right:10px; 
 }
+
+
 
 
 .services-text {
@@ -1159,6 +1173,7 @@ table a:hover{
   background-attachment: fixed;
   background-repeat: no-repeat;  
   text-align:center;
+  background-color: rgba(40,42,46,0.9)
 }
 
 .parallax .parallax-text-container-1 {
@@ -1238,6 +1253,8 @@ table a:hover{
 
 .testimonal p {
   margin-bottom: 10px;
+  font-size: 2em;
+  line-height: 1em;
 }
 
 
