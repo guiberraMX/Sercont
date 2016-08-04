@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------
+panel-body/*------------------------------------------------------------------
 [Components Stylesheet]
 
 Project:	Monopol HTML5 template
@@ -221,8 +221,9 @@ ul.services-2 li .text h5{
 }
 
 ul.services-2 li .text p{
-  font-size: 14px;
-  line-height: 1.714285714;
+  font-size: 18px;
+  line-height: 1.4;
+  font-family: "Roboto", sans-serif !important;
 }
 
 
@@ -456,15 +457,10 @@ ul.services-2 li .services-2-line {
 }
 
 .panel-body {
-  padding: 25px 30px;
+  padding: 0px 0px;
+  margin-top: 55px;
 }
 
-.panel-group .panel-heading + .panel-collapse > .panel-body {
-  border-left: 1px solid #D0D5D9;
-  border-right: 1px solid #D0D5D9;
-  border-bottom: 1px solid #D0D5D9;
-  border-top: 0px solid #D0D5D9;
-}
 
 .panel-title>a {
   font-family: "Roboto", sans-serif;
